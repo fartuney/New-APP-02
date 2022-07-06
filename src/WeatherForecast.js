@@ -22,6 +22,7 @@ function handleResponse(response) {
                 </div>
               );
             }
+            return null;
           })}
         </div>
       </div>
