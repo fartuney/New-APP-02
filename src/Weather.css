@@ -23,13 +23,13 @@
   line-height: 19px;
   list-style: none;
 }
-
 .weather canvas {
   height: 64px;
-  margin-right: 5px;
   margin-top: 5px;
-  margin-right: 10px;
+  margin-right: 5px;
+   
 }
+
 
 
 .weather .temperature {
